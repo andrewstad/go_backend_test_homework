@@ -94,3 +94,4 @@ func TestSumFunc(t *testing.T) {
 		})
 	}
 }
+// вот мой коммент
